@@ -7,12 +7,15 @@
 2. Extract the zip.
 3. Open following file:  AC_Replay_Mover/AC_Replay_Mover/App.config 
 4. In the App.config file:
-	* Navigate to <configuration>
+	* Navigate to 
+	```xml
+	<configuration>
                     [...]
                         <appSettings>
                             [...]
                             <add key="sourceDirectory" value="C:\path\to\your\ACReplay\folder\"/>
 		                        <add key="destinationDirectory" value="C:\path\to\desired\destination\folder\"/>
+	```
   	* Change the values of sourceDirectory and targetDirectory according to your liking
  	* Save the file
 5. Press [Win] + R and type "shell:startup" to open your Autostart folder in a new window.
