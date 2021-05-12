@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\bin\Debug\AC_Replay_Mover.exe.config
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\bin\Debug\AC_Replay_Mover.exe
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\bin\Debug\AC_Replay_Mover.pdb
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\obj\Debug\AC_Replay_Mover.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\obj\Debug\AC_Replay_Mover.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\obj\Debug\AC_Replay_Mover.exe
+C:\Users\Admin\source\repos\AC_Replay_Mover\AC_Replay_Mover\obj\Debug\AC_Replay_Mover.pdb
