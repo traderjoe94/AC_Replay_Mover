@@ -16,4 +16,4 @@
   b. Change the values of sourceDirectory and targetDirectory according to your liking
   c. Save the file
 5. Press [Win] + R and type "shell:startup" to open your Autostart folder in a new window.
-6. Copy "AC_Replay_Mover_Shortcut" from AC_Replay_Mover\AC_Replay_Mover\bin\Debug to your Autostart folder. Now it should start ony every restart of your PC.
+6. Copy "AC_Replay_Mover_Shortcut" from AC_Replay_Mover\AC_Replay_Mover\bin\Debug to your Autostart folder. Now it should start on every restart of your PC.
